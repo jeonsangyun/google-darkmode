@@ -78,14 +78,6 @@ input[type="text"] {
     margin-left: 10px;
 }
 
-.plus-logo{
-    margin-top: 25px;
-}
-
-.plus-text{
-    margin-top: 12px;
-    color: white;
-}
 
 .pencil-logo{
     margin-right: 7px;
@@ -148,4 +140,25 @@ input[type="text"] {
 
 .second-line-second{
     float: right;
+}
+
+
+.button-area{
+    padding-top:18px;
+}
+
+.button-style{
+    height: 30px;
+    background-color: #636363;
+    border:1px solid #636363;
+    border-radius: 5px;
+    padding:0 16px;
+    margin: 11px 4px;
+}
+
+.button-style:hover{
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #bbbbbb;
+    border: 1px solid #dadce0;
+    color:#202124;
 }
